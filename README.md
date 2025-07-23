@@ -1,5 +1,5 @@
-# directing-customers-to-subscription-through-app-behaviour-analysis
-Directing Customers to Subscription Through App Behavior Analysis
+# Directing Customers to Subscription Through App Behavior Analysis
+
 
 
 ## Project Overview
